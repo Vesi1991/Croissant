@@ -1,0 +1,23 @@
+body {
+  background: yellowgreen;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+a {
+  text-align: center;
+  display: block;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  display: flexbox;
+  color: green;
+  display: flexbox;
+}
